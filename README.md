@@ -6,6 +6,9 @@ This is collection of DLLs to fix compatibility for Windows 7 in the Cube World 
 1. Head over to the [releases](https://github.com/CWTesseract/win7fix/releases) page and download the zip file.
 2. Extract the `.dll` files to your cube world directory, next to your `cubeworld.exe`.
 
+# Known issues
+* The game will crash on exit.
+
 # Where did these come from?
 
 These DLL's are from the following sources:
