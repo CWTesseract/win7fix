@@ -4,7 +4,7 @@ This is collection of DLLs to fix compatibility for Windows 7 in Cube World.
 
 Because XAudio2.8 requires Windows 8+, this replaces XAudio with [FAudio](https://github.com/FNA-XNA/FAudio), an open-source XAudio reimplementation that works across multiple operating system by using SDL2.
 
-If you like this project, please consider consider sponsoring/supporting [FAudio](https://github.com/FNA-XNA/FAudio) and it's creator [`flibitijibibo`](https://github.com/flibitijibibo).
+If you like this project, please consider sponsoring/supporting [FAudio](https://github.com/FNA-XNA/FAudio) and it's creator [`flibitijibibo`](https://github.com/flibitijibibo).
 
 # Usage
 1. Head over to the [releases](https://github.com/CWTesseract/win7fix/releases) page and download the latest zip file.
